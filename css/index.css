@@ -55,7 +55,7 @@ a {
 .title {
     font-size: 64px;
     font-variant: small-caps;
-    letter-spacing: 48px;
+    letter-spacing: 12px;
     margin-bottom: 10px;
 }
 
@@ -64,11 +64,11 @@ a {
     font-weight: bold;
 }
 
-/* .title-container {
-    height: 100vh;
+.title-container {
+    height: 50vh;
     display: flex;
     flex-direction: column;
-} */
+}
 
 .title-gap {
     flex-grow: 1;

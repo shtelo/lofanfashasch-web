@@ -29,6 +29,10 @@ button {
     box-shadow: #2c2c2c80 0 3px 5px;
 }
 
+a {
+    color: #fdde59;
+}
+
 .main-container {
     max-width: var(--content-width);
     margin: auto auto 20px;

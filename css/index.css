@@ -60,11 +60,11 @@ button {
     font-weight: bold;
 }
 
-.title-container {
+/* .title-container {
     height: 100vh;
     display: flex;
     flex-direction: column;
-}
+} */
 
 .title-gap {
     flex-grow: 1;

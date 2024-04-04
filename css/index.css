@@ -23,10 +23,9 @@ body {
 button {
     padding: 10px 30px;
     background-color: #fdde59;
-    border-color: #2c2c2c;
-    border-style: solid;
-    border-radius: 2px;
+    border: none;
     box-shadow: #2c2c2c80 0 3px 5px;
+    cursor: pointer;
 }
 
 a {
@@ -54,8 +53,8 @@ a {
 
 .title {
     font-size: 64px;
-    font-variant: small-caps;
-    letter-spacing: 12px;
+    /* font-variant: small-caps; */
+    /* letter-spacing: 12px; */
     margin-bottom: 10px;
 }
 
